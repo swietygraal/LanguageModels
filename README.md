@@ -1,5 +1,5 @@
 # Language Models
-Problem solutions from the Langiage Models course at University of Wrocław.
+Problem solutions from the Language Models course at University of Wrocław.
 
 ## Assignment 1
 Chatbot from scratch (using one of the polish huggingface models), sentence probability, review classification (good/bad), zero-shot/one-shot/few-shot learning, heuristics for answering questions
